@@ -1,0 +1,12 @@
+command to create environment : 
+conda create -p venv python==3.12  , where venv is the environment name
+
+command to activate environment : 
+conda activate C:\DEVELOPEMENT\Data-Analysis\venv
+
+command to deactivate environment :
+conda deactivate
+
+command to create the requirements.txt file : 
+pip freeze > requirements.txt
+
